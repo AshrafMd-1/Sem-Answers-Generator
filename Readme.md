@@ -1,5 +1,6 @@
 # Semester Answer Generator
 
-This is a simple tool to generate answers for the semester question paper through their URL.
+> 📦 **Archived** — This project was built for academic purposes during the college term. It is no longer in active use and is retained for reference only.
 
-  Only for IARE students
+A tool that fetches previous semester question papers via URL, parses questions from PDF files, and uses Google Gemini to generate a structured Markdown document with answers.
+
